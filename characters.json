@@ -76,7 +76,7 @@
 		"friction": 0.01,
 		"restitution": 0.7,
 		"shapes": [{
-			"radius": 0.98,
+			"radius": 2,
 			"origin": [0, 0]
 		}]
 	}]
