@@ -70,6 +70,17 @@
 		}]
 	}]
 },
+"ball": {
+	"bodies": [{
+		"density": 0.1,
+		"friction": 0.01,
+		"restitution": 0.7,
+		"shapes": [{
+			"radius": 0.98,
+			"origin": [0, 0]
+		}]
+	}]
+},
 "coiny": {
 	"bodies": [{
 		"density": 3,
